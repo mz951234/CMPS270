@@ -1,5 +1,5 @@
 
-
+#include <stdio.h> // this line was added on github
 void printMsg(char * str);
 
 int sum(int a, int b);
