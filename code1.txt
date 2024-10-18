@@ -1,3 +1,7 @@
+
+void printMsg(char * str);
+
+
 int main(){
 	
 	printf("1st line\n");
