@@ -9,3 +9,9 @@ int main(){
 	printf("1st line\n");
 
 }
+
+//this is us3 feature
+int sum (int a, int b){
+
+	return a+b;
+)
